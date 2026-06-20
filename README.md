@@ -1,6 +1,6 @@
 # Cisco Practice Lab
 Config DHCP , DNS , EMAIL , WEB , ETHER CHANNEL 
-## 🛡️ Connectivity & Security Configurations (Kết nối & Bảo mật)
+## 🛡️ Connectivity & Security Configurations 
 
 * **End-to-End Service Verification:** Successfully tested and verified that client PCs can seamlessly access and utilize all deployed services from the centralized servers.
 * **Network Routing & Reachability:** Established full network routing, ensuring stable and seamless communication from both the DMZ and the Server Farm block to the end-user networks at the Access layer.
