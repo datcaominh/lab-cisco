@@ -1,4 +1,4 @@
-# lab-cisco
+# lab-cisco-practice
 Config DHCP , DNS , EMAIL , WEB , ETHER CHANNEL 
 ## 🛡️ Connectivity & Security Configurations (Kết nối & Bảo mật)
 
@@ -6,4 +6,7 @@ Config DHCP , DNS , EMAIL , WEB , ETHER CHANNEL
 * **Network Routing & Reachability:** Established full network routing, ensuring stable and seamless communication from both the DMZ and the Server Farm block to the end-user networks at the Access layer.
 * **Firewall & Access Control:** Configured the ASA Firewall and implemented appropriate Access Control Lists (ACLs) to enforce security policies, tightly controlling and securing traffic flows between different network zones.
 
-<img width="738" height="530" alt="Screenshot 2026-06-20 213153" src="https://github.com/user-attachments/assets/8bc82c2c-867d-404d-baf6-771f0e226e8f" />
+TOPOLOGY 
+
+<img width="705" height="523" alt="Screenshot 2026-06-20 214348" src="https://github.com/user-attachments/assets/9de5d242-4dd3-44e7-afaf-0d5eae66ea30" />
+
