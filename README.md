@@ -1,4 +1,4 @@
-# lab-cisco-practice
+# Cisco Practice Lab
 Config DHCP , DNS , EMAIL , WEB , ETHER CHANNEL 
 ## 🛡️ Connectivity & Security Configurations (Kết nối & Bảo mật)
 
